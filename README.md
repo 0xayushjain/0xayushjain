@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giffy.gif" alt="gif" width="400" height="300">
+  <img src="giffy.gif" alt="gif" width="1920" height="597">
 </p>
 
 <h1 align="center">Hi👋, I'm Ayush Jain</h1>
