@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.svg" alt="avatar" width="400" height="300">
+  <img src="giffy.gif" alt="gif" width="400" height="300">
 </p>
 
 <h1 align="center">Hi👋, I'm Ayush Jain</h1>
