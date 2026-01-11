@@ -72,9 +72,8 @@
 ## 💰 Support Me
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/0xayushjain)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/0xayushjain)
-<!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/0xayushjain) -->
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/0xayushjain)
-
+<!-- [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/0xayushjain) -->
 
 ## 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ayush14189&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
